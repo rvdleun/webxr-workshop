@@ -18,6 +18,10 @@
 * Scale
 * Color
 
+## Inspector
+
+Press CTRL + ALT + I to access the inspector
+
 ## Example
 
 ```html
