@@ -12,4 +12,4 @@
 
 ## Useful links
 
-* https://github.com/ngokevin/kframe/tree/master/components/animation - Documentation about the animation component
+* https://aframe.io/docs/1.0.0/components/animation.html - Documentation about the animation component

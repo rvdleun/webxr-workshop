@@ -20,4 +20,4 @@
 
 ## Useful links
 
-* https://aframe.io/docs/0.8.0/core/component.html - Documentation about components
+* https://aframe.io/docs/1.0.0/core/component.html - Documentation about components

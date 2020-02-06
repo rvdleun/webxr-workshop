@@ -31,4 +31,4 @@
 
 ## Useful links
 
-* https://aframe.io/docs/0.8.0  - Scroll down for a list of primitives
+* https://aframe.io/docs/1.0.3  - Scroll down for a list of primitives

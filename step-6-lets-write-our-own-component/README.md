@@ -5,7 +5,7 @@
 * Create a new component via AFRAME.registerComponent()
 * Use the animation component to move the target to a new position
 * Have it move to a new random position when the element gets the ‘animationcomplete’ event.
-* For instructions about the animation component, visit: github.com/ngokevin/kframe/tree/master/components/animation 
+* For instructions about the animation component, visit: https://aframe.io/docs/1.0.0/components/animation.html
 
 ## Example
 
@@ -14,6 +14,8 @@ AFRAME.registerComponent('target-animation', {
   init: function() {
     // Add listeners here for animationcomplete to run playAnimation again
     this.playAnimation();
+    
+    this.el.addEventListener('animationcomplete', () => this.playAnimation() );
   },
 
   playAnimation: function() {
@@ -27,4 +29,4 @@ AFRAME.registerComponent('target-animation', {
 
 ## Useful links
 
-* https://aframe.io/docs/0.8.0/core/component.html - Documentation about components
+* https://aframe.io/docs/1.0.0/core/component.html - Documentation about components

@@ -1,4 +1,4 @@
-# TRL AFrame Workshop
+# AFrame Workshop
 
 ## What are we going to do?
 
@@ -11,10 +11,10 @@
 ## What will you get out of this?
 
 * Experience with building a Virtual Reality app
-* See instant results with WebVR
+* See instant results with WebXR
 * Play around with the differences between VR and desktop development
 * Understand how components work and build our own
 
 ## Glitch
 
-The glitch starter pack can be found at https://glitch.com/edit/#!/workshop-webvr
+The glitch starter pack can be found at https://glitch.com/edit/#!/workshop-webxr
